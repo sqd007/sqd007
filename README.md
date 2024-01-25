@@ -29,3 +29,8 @@ A **MatchWork** está comprometida não apenas em transformar carreiras, mas tam
 
 ## Futuro
 À medida que a **MatchWork** continua a crescer, a empresa está empenhada em permanecer na vanguarda da inovação no recrutamento. O compromisso com a excelência, a empatia e a tecnologia posiciona a **MatchWork** como uma força motriz no setor, moldando o futuro do trabalho e capacitando profissionais a alcançarem seus objetivos.
+
+
+
+
+## Equipe de Desenvolvedores Full Stack - RecodPro
